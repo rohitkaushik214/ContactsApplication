@@ -1,0 +1,11 @@
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\ContactsApplication.Domain.dll.config
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\ContactsApplication.Domain.dll
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\ContactsApplication.Domain.pdb
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\EntityFramework.dll
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\log4net.dll
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\EntityFramework.xml
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\bin\Debug\log4net.xml
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\obj\Debug\ContactsApplication.Domain.dll
+C:\ConnectAndSales\ContactsApplication\ContactsApplication.Domain\obj\Debug\ContactsApplication.Domain.pdb
