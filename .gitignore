@@ -1,0 +1,8 @@
+ContactsApplication/bin
+ContactsApplication/obj
+
+ContactsApplication.Domain/obj
+ContactsApplication.Domain/bin
+
+ContactsApplication.Repository/bin
+ContactsApplication.Repository/obj
